@@ -1,0 +1,16 @@
+{
+  "name": "olympics-scrapper",
+  "version": "1.0.0",
+  "description": "Simple scrapper for the olympics that makes data easier to parse and display.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "express": "^4.14.0",
+    "lodash": "^4.14.2"
+  }
+}

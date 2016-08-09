@@ -1,0 +1,1037 @@
+[
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png",
+    "name": "United States",
+    "noc": "USA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8Cr5Gw-79PpIX2rIEZ7Pvg_48x48.png",
+    "name": "China",
+    "noc": "CHN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+    "name": "Australia",
+    "noc": "AUS"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_48x48.png",
+    "name": "Italy",
+    "noc": "ITA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_48x48.png",
+    "name": "Japan",
+    "noc": "JPN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/YEm-U_1zHCmIknmK5sNcIg_48x48.png",
+    "name": "Hungary",
+    "noc": "HUN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/5Y6kOqiOIv2C1sP9C_BWtA_48x48.png",
+    "name": "Russia",
+    "noc": "RUS"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_48x48.png",
+    "name": "South Korea",
+    "noc": "KOR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_48x48.png",
+    "name": "Thailand",
+    "noc": "THA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/6HRpt1RF_AbDUftxgVUoEw_48x48.png",
+    "name": "Great Britain",
+    "noc": "GBR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+    "name": "Brazil",
+    "noc": "BRA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/OkFlRvRsKMWb8Hk20L9Trw_48x48.png",
+    "name": "Sweden",
+    "noc": "SWE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/WRX9c1mOBr-tQx13hN_HOQ_48x48.png",
+    "name": "Chinese Taipei",
+    "noc": "TPE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/6SF7yEoB60bU5knw-M7R5Q_48x48.png",
+    "name": "Belgium",
+    "noc": "BEL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+    "name": "Argentina",
+    "noc": "ARG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/tXHnA_tDylayacdjWQCJvw_48x48.png",
+    "name": "Colombia",
+    "noc": "COL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+    "name": "Croatia",
+    "noc": "CRO"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/2qufsN_GfE7qKmAxKKDIMg_48x48.png",
+    "name": "Kosovo",
+    "noc": "KOS"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+    "name": "Netherlands",
+    "noc": "NED"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/IUYV_ZAMxDdabQPzSpTJtg_48x48.png",
+    "name": "Vietnam",
+    "noc": "VIE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_48x48.png",
+    "name": "Indonesia",
+    "noc": "INA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/vLzv_L6wZJ4ygGlIJLUc1A_48x48.png",
+    "name": "New Zealand",
+    "noc": "NZL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_48x48.png",
+    "name": "South Africa",
+    "noc": "RSA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_48x48.png",
+    "name": "Canada",
+    "noc": "CAN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/GWILg_KpGKpR9VHX4Q9SpQ_48x48.png",
+    "name": "Kazakhstan",
+    "noc": "KAZ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/DQIQtK7N4yrDIqw75pxFHg_48x48.png",
+    "name": "Ukraine",
+    "noc": "UKR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/berApj5NasbKnE8ykdBZ1w_48x48.png",
+    "name": "Azerbaijan",
+    "noc": "AZE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/LaOvu-pyRqRso6uzff55XA_48x48.png",
+    "name": "Denmark",
+    "noc": "DEN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+    "name": "France",
+    "noc": "FRA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/J1GVv__Jofi9-GD11pYhhg_48x48.png",
+    "name": "Mongolia",
+    "noc": "MGL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/SMAJOAEhYfXLrR5oOCzaYg_48x48.png",
+    "name": "Philippines",
+    "noc": "PHI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/D-sduhUbhX3IlvlymeSyCQ_48x48.png",
+    "name": "North Korea",
+    "noc": "PRK"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/4UvchPY7qJwQhQjWMgHTqQ_48x48.png",
+    "name": "Uzbekistan",
+    "noc": "UZB"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_48x48.png",
+    "name": "Spain",
+    "noc": "ESP"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/bKgDua1kwIWk6-kiuusSnQ_48x48.png",
+    "name": "Georgia",
+    "noc": "GEO"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/4iCrrqHfq9zLlhOt34o7Pg_48x48.png",
+    "name": "Greece",
+    "noc": "GRE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_48x48.png",
+    "name": "Poland",
+    "noc": "POL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_48x48.png",
+    "name": "Portugal",
+    "noc": "POR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/EO_PoDkZTsWom_ZTj54SVg_48x48.png",
+    "name": "Benin",
+    "noc": "BEN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/bi2DeImhGhzAEVEx_RoAzw_48x48.png",
+    "name": "American Samoa",
+    "noc": "ASA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_48x48.png",
+    "name": "Afghanistan",
+    "noc": "AFG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Bz9YLc1TxEq9w6OurSYGPw_48x48.png",
+    "name": "Aruba",
+    "noc": "ARU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ZH7SDm7MIMjzcxLI4F3Tyg_48x48.png",
+    "name": "Burkina Faso",
+    "noc": "BUR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/N7eQzihWrRxT4K7ofHt_BA_48x48.png",
+    "name": "Andorra",
+    "noc": "AND"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ZMJStjYKcgxkUdgd4XrMAw_48x48.png",
+    "name": "Belize",
+    "noc": "BIZ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/oVYdBtXnJXYVX_OM4U75Ww_48x48.png",
+    "name": "Armenia",
+    "noc": "ARM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zZzKmdy0FsJ159f9r0vxrA_48x48.png",
+    "name": "Mali",
+    "noc": "MLI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/cJH9pZPURSZ68UjxxS4nKw_48x48.png",
+    "name": "Malaysia",
+    "noc": "MAS"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_48x48.png",
+    "name": "Bangladesh",
+    "noc": "BAN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/IUyED6JG0JoSaBztNBe5_Q_48x48.png",
+    "name": "Refugee Olympic Athletes",
+    "noc": "ROT"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/NTMHlvsBjWpQc-bCFyT3mQ_48x48.png",
+    "name": "British Virgin Islands",
+    "noc": "IVB"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/7hOLRwtuEGZpI3AOv27qKA_48x48.png",
+    "name": "Brunei Darussalam",
+    "noc": "BRU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/QEAw2CbmYNk33VQkogGbZw_48x48.png",
+    "name": "Kiribati",
+    "noc": "KIR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/sMBBJKJDr5Y1bISmHc9vlA_48x48.png",
+    "name": "Liberia",
+    "noc": "LBR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/3VpXzxfuyhEBpXoorjKjCA_48x48.png",
+    "name": "Papua New Guinea",
+    "noc": "PNG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z4mel8TdfYjdOMj8JB1lMA_48x48.png",
+    "name": "Seychelles",
+    "noc": "SEY"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/4ODjbzTuVDBN3PGVpFIAXQ_48x48.png",
+    "name": "Marshall Islands",
+    "noc": "MHL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/SKbI2jnF9qNc2ifOXnKlNQ_48x48.png",
+    "name": "Somalia",
+    "noc": "SOM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/S5ivsscrfCG1mgqceKMPlQ_48x48.png",
+    "name": "Iraq",
+    "noc": "IRQ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ysP9ZMvjuPdUXwtIgg2Gcw_48x48.png",
+    "name": "Sierra Leone",
+    "noc": "SLE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/_36hJnjgvIOjqIZH7m37FA_48x48.png",
+    "name": "South Sudan",
+    "noc": "SSD"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/KTjSMZl5H_qNuY1go0-mGw_48x48.png",
+    "name": "Gambia",
+    "noc": "GAM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/v_vORXEGt13cTEb-zw7yWA_48x48.png",
+    "name": "United Arab Emirates",
+    "noc": "UAE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/JCU93J9GUw6QWkH-RBNulg_48x48.png",
+    "name": "Macedonia",
+    "noc": "MKD"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/VJQ1emg0TOubjGnap4vWuw_48x48.png",
+    "name": "Ghana",
+    "noc": "GHA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/fmHyTSbJ-cYbY6WJzvqaZQ_48x48.png",
+    "name": "Cameroon",
+    "noc": "CMR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8ubHACvf85jReRY73jY5jA_48x48.png",
+    "name": "Congo",
+    "noc": "CGO"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/RKC3_HjnLSQGQ_qa8E5j4Q_48x48.png",
+    "name": "Bhutan",
+    "noc": "BHU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/0eLlWKgVxzt2HokxGgtwnQ_48x48.png",
+    "name": "Cook Islands",
+    "noc": "COK"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/jee6qnidCJfqyDdHQOxRnQ_48x48.png",
+    "name": "Comoros",
+    "noc": "COM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/GjE1SPXaQKP_eLU8sNanPQ_48x48.png",
+    "name": "Guinea-Bissau",
+    "noc": "GBS"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/rSQSuoU3QdE8EiA_boJiLQ_48x48.png",
+    "name": "Central African Republic",
+    "noc": "CAF"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/VHI7nuXNqeMELbBEsPkvjQ_48x48.png",
+    "name": "Cape Verde",
+    "noc": "CPV"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9swSmw5NICcCYIQ8FERjhw_48x48.png",
+    "name": "Jordan",
+    "noc": "JOR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/MgTgO44PlRIyAdPRGCPG0Q_48x48.png",
+    "name": "Equatorial Guinea",
+    "noc": "GEQ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3H7hLp9efXa_dzWHdjKcg_48x48.png",
+    "name": "Guinea",
+    "noc": "GUI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/BsAIxnFstCKcsmyNAeUU-A_48x48.png",
+    "name": "Federated States of Micronesia",
+    "noc": "FSM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/B0wsGHH3HXHsV_5dvmnPuQ_48x48.png",
+    "name": "Congo",
+    "noc": "CGO"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/UcX5vSiOHAidsSoxOwd2_w_48x48.png",
+    "name": "Chad",
+    "noc": "CHA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ZfjEqUIWQeWoL2dtB3dUxA_48x48.png",
+    "name": "Guyana",
+    "noc": "GUY"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/M73MvhWiX9b0VdoJ8axaeg_48x48.png",
+    "name": "Cambodia",
+    "noc": "CAM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/CBxrCxiBkSddrBEWZWQNzw_48x48.png",
+    "name": "Malta",
+    "noc": "MLT"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/jOfOsT0oKKvKkXl3i1i8Mw_48x48.png",
+    "name": "Sao Tome and Principe",
+    "noc": "STP"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/FINOXX-qPkNjHmeh3goaHQ_48x48.png",
+    "name": "Togo",
+    "noc": "TOG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/AkMdqELoXN2wfYDvtMIQBQ_48x48.png",
+    "name": "Haiti",
+    "noc": "HAI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ZNYM0lOQPiJv8CiceSYxLw_48x48.png",
+    "name": "Samoa",
+    "noc": "SAM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/OunCBxWtrF0cF14PKuwxrQ_48x48.png",
+    "name": "Tonga",
+    "noc": "TGA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/3PuqKcKaGF0VejHt0lplfw_48x48.png",
+    "name": "Mauritania",
+    "noc": "MTN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Cs0ez-udd-z-tZGxaOaong_48x48.png",
+    "name": "Maldives",
+    "noc": "MDV"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1puHbTxdkYLi14gCEi42NA_48x48.png",
+    "name": "Swaziland",
+    "noc": "SWZ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Dub3dHIwlpMwtpeFpPVtTw_48x48.png",
+    "name": "Libya",
+    "noc": "LBA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/e_H8HPs3i6hiEymK18GNfQ_48x48.png",
+    "name": "Suriname",
+    "noc": "SUR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/P3AuVcg_nXpKNQY9zePJPA_48x48.png",
+    "name": "Nicaragua",
+    "noc": "NCA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/l7E9KYmBXDtg5dFkOEXPEQ_48x48.png",
+    "name": "Tuvalu",
+    "noc": "TUV"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zw3ac5sIbH4DS6zP5auOkQ_48x48.png",
+    "name": "Senegal",
+    "noc": "SEN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/FLrQ4VpsM5eSQHSadNA0SQ_48x48.png",
+    "name": "Nepal",
+    "noc": "NEP"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/SVBzrEoo3aCu2Lw2wcv4LQ_48x48.png",
+    "name": "Lebanon",
+    "noc": "LIB"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/5Cah_q9WSSXkrEUQVXpfkQ_48x48.png",
+    "name": "Madagascar",
+    "noc": "MAD"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/pjuqxHVWHQUKgipijiS4dQ_48x48.png",
+    "name": "Solomon Islands",
+    "noc": "SOL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/TDQHsHFyXH5D1xE2AUwt6g_48x48.png",
+    "name": "Vanuatu",
+    "noc": "VAN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png",
+    "name": "Pakistan",
+    "noc": "PAK"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/kVHUtqIrzOFiOn4Id4CMUQ_48x48.png",
+    "name": "St Vincent and the Grenadines",
+    "noc": "VIN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/PHthw2pVJiOlg_qIFHsHfA_48x48.png",
+    "name": "Cayman Islands",
+    "noc": "CAY"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/QslJrpkNMicEEPWiaIf-Jw_48x48.png",
+    "name": "Niger",
+    "noc": "NIG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/KnSUdQWiGRoy89q4x85IgA_48x48.png",
+    "name": "Uruguay",
+    "noc": "URU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/qxBrX9S2fwxQ5BHasGlEuQ_48x48.png",
+    "name": "Palestine",
+    "noc": "PLE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/clVmlDCDO7GWBc-a97NfZQ_48x48.png",
+    "name": "Hong Kong, China",
+    "noc": "HKG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/pMt9wk-96pwNyfqaLpp3wg_48x48.png",
+    "name": "Malawi",
+    "noc": "MAW"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/S-bkaB9RN4QrMGWgHwKOmg_48x48.png",
+    "name": "Syria",
+    "noc": "SYR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/PpQDJ24cZ3-rNIVmaJ0ypQ_48x48.png",
+    "name": "Liechtenstein",
+    "noc": "LIE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/CpHtpHDYt6p7c2iQiM324g_48x48.png",
+    "name": "Monaco",
+    "noc": "MON"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ID0I1bCWjgAqS9iWqw-08A_48x48.png",
+    "name": "Mozambique",
+    "noc": "MOZ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Nf2Z8AGPvzc8Z4eD7jYNZw_48x48.png",
+    "name": "Montenegro",
+    "noc": "MNE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/E_JVaw-e9-Y3H2Tmlaeadw_48x48.png",
+    "name": "Sudan",
+    "noc": "SUD"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/5AbmhcQdMLKQQLgvF5Vuiw_48x48.png",
+    "name": "Turkmenistan",
+    "noc": "TKM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/35rC4F_v_6KOIwjutPNWWg_48x48.png",
+    "name": "Laos",
+    "noc": "LAO"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/nUt8y1weoBfa54Oi6JD4dw_48x48.png",
+    "name": "Honduras",
+    "noc": "HON"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1Y5pUINYR9shf_gfj-ZPQw_48x48.png",
+    "name": "Rwanda",
+    "noc": "RWA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/KN-7WnOfDfIicywii8dtzw_48x48.png",
+    "name": "Kyrgyzstan",
+    "noc": "KGZ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ME2gSxv9lXsXg4b_l8kXPg_48x48.png",
+    "name": "Tanzania",
+    "noc": "TAN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/vGrlcbNAd74VoZqi7Rjuiw_48x48.png",
+    "name": "Palau",
+    "noc": "PLW"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/38dLAnaY1DE3IK4CbV_zcA_48x48.png",
+    "name": "Timor-Leste",
+    "noc": "TLS"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/w31aBPea38RXcU_mqs4lGA_48x48.png",
+    "name": "Yemen",
+    "noc": "YEM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/IUyED6JG0JoSaBztNBe5_Q_48x48.png",
+    "name": "Independent Olympic Athletes",
+    "noc": "IOA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/-5crMx0oc81Fqo9_Wht3-Q_48x48.png",
+    "name": "Dominica",
+    "noc": "DMA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/xTukAGqq3leSnnFSEcVouA_48x48.png",
+    "name": "Nauru",
+    "noc": "NRU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/tr94i28azTadAjK9PBYFGA_48x48.png",
+    "name": "Oman",
+    "noc": "OMA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9zjzFYcCs_gseioNxUrIqQ_48x48.png",
+    "name": "Guam",
+    "noc": "GUM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_48x48.png",
+    "name": "Germany",
+    "noc": "GER"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z_QuO6sLWZ8Wj8InijoXLQ_48x48.png",
+    "name": "Ireland",
+    "noc": "IRL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Epw_LlTSmXmMslvkQu0TdQ_48x48.png",
+    "name": "Belarus",
+    "noc": "BLR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_48x48.png",
+    "name": "India",
+    "noc": "IND"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/xyh1vmZ-xJH2iJCKjqS1Ow_48x48.png",
+    "name": "Serbia",
+    "noc": "SRB"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/6APs2PMKgCrh97J3QEz5Yg_48x48.png",
+    "name": "Slovakia",
+    "noc": "SVK"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/iGHMbfNfFYBxRwqi_v8L3w_48x48.png",
+    "name": "Bulgaria",
+    "noc": "BUL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/lLDKax72TPgU_Hcj0W-DOg_48x48.png",
+    "name": "Norway",
+    "noc": "NOR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/e0axhViqJ648o7G5wJr8ug_48x48.png",
+    "name": "Cyprus",
+    "noc": "CYP"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/_Ra0NbQI3irthBNkSNokUQ_48x48.png",
+    "name": "Guatemala",
+    "noc": "GUA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/SXDmM3hD3sYznbTTTpru3Q_48x48.png",
+    "name": "Singapore",
+    "noc": "SIN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Xs33c9XVUJBX0IkeFn_bIw_48x48.png",
+    "name": "Tunisia",
+    "noc": "TUN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/pRhIGqSbK7SyiMvm8xAqqQ_48x48.png",
+    "name": "Lithuania",
+    "noc": "LTU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/OR16mUDJv-0yTyh-jxlaKQ_48x48.png",
+    "name": "Finland",
+    "noc": "FIN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/hYrtTF982kN3GcYNdSPL9g_48x48.png",
+    "name": "Turkey",
+    "noc": "TUR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/eoYnHnSwIqfFIeAoWwLEIg_48x48.png",
+    "name": "Slovenia",
+    "noc": "SLO"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/h6HrOWT3PZsxVX3m5B9E9w_48x48.png",
+    "name": "Estonia",
+    "noc": "EST"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_48x48.png",
+    "name": "Mexico",
+    "noc": "MEX"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/AONx81jBfBSTySXu3HAw3w_48x48.png",
+    "name": "Israel",
+    "noc": "ISR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_48x48.png",
+    "name": "Switzerland",
+    "noc": "SUI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/lYah1Uqw37XdicC6C4HNqg_48x48.png",
+    "name": "Egypt",
+    "noc": "EGY"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/HwYB-wsdd6M2WmLXSkd6Sg_48x48.png",
+    "name": "Austria",
+    "noc": "AUT"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/qHi4LQ8mu22Mgcc1GebiVQ_48x48.png",
+    "name": "Cuba",
+    "noc": "CUB"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/AKqvkBpIyr-iLOK7Ig7-yQ_48x48.png",
+    "name": "Ecuador",
+    "noc": "ECU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/88vJq30FdUDnRtijjPJyoA_48x48.png",
+    "name": "El Salvador",
+    "noc": "ESA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/O0GmGmTn0wfzVwOCa09hDA_48x48.png",
+    "name": "Dominican Republic",
+    "noc": "DOM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8AluO-WxpcHtC0KKHmFgvg_48x48.png",
+    "name": "Czech Republic",
+    "noc": "CZE"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/XeJTI89eHR8IaoernVhnkw_48x48.png",
+    "name": "US Virgin Islands",
+    "noc": "ISV"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1oq8Fy7ETpBpZNaCA22ArQ_48x48.png",
+    "name": "Iran",
+    "noc": "IRI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/S6c0DAVGaMnXlQbh3-Vpiw_48x48.png",
+    "name": "Ethiopia",
+    "noc": "ETH"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/h0FNA5YxLzWChHS5K0o4gw_48x48.png",
+    "name": "Qatar",
+    "noc": "QAT"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/fdTCVn1Zn1lDaruzbEU10g_48x48.png",
+    "name": "Bahamas",
+    "noc": "BAH"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/lvpnX8YUQiMuVH7jKrtIaQ_48x48.png",
+    "name": "San Marino",
+    "noc": "SMR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/K8p62_CB97hudLPoJbKKoQ_48x48.png",
+    "name": "Angola",
+    "noc": "ANG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ixZiM5pj2IvvYc15k-zfeQ_48x48.png",
+    "name": "Costa Rica",
+    "noc": "CRC"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/t98aSVGr2t2lVldT4S_H2A_48x48.png",
+    "name": "Myanmar",
+    "noc": "MYA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/qNdn2A-NP605UMyeKE5S4A_48x48.png",
+    "name": "Kenya",
+    "noc": "KEN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ze_l59X1MjqqpEe0Re16cw_48x48.png",
+    "name": "Moldova",
+    "noc": "MDA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+    "name": "Morocco",
+    "noc": "MAR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ohjuAvV5dzyPZSEWWNNd_Q_48x48.png",
+    "name": "Venezuela",
+    "noc": "VEN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/cI5rCchv6SjDgZ5NuEaMMQ_48x48.png",
+    "name": "Chile",
+    "noc": "CHI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/U08wYdQptUaWuweG82L3dw_48x48.png",
+    "name": "Peru",
+    "noc": "PER"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_48x48.png",
+    "name": "Sri Lanka",
+    "noc": "SRI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Hwu8rGKuZ8i4kQBazWDFiw_48x48.png",
+    "name": "Puerto Rico",
+    "noc": "PUR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/-FN-y84Al3dbth0hW1t5Qg_48x48.png",
+    "name": "Paraguay",
+    "noc": "PAR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/QneSJOdYzN7b6Z_cbKQAEw_48x48.png",
+    "name": "Romania",
+    "noc": "ROU"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/KbXAsK8Ilf9k-plWODU2gA_48x48.png",
+    "name": "Saint Kitts and Nevis",
+    "noc": "SKN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/4vl3iU5O5Tit_-OKjvnJuA_48x48.png",
+    "name": "Lesotho",
+    "noc": "LES"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/p2xAqe-tGJboM2RalH67Rw_48x48.png",
+    "name": "Eritrea",
+    "noc": "ERI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8bI8VibVGa2HtxKN_SZE6g_48x48.png",
+    "name": "Zimbabwe",
+    "noc": "ZIM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/nbD_EMjEWchvpfsEgH53lw_48x48.png",
+    "name": "Botswana",
+    "noc": "BOT"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/4HCKfsNJNHDY-vWSEzLbeQ_48x48.png",
+    "name": "Jamaica",
+    "noc": "JAM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/5Mzu0-epbyisvZccwByCtg_48x48.png",
+    "name": "Uganda",
+    "noc": "UGA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_48x48.png",
+    "name": "Namibia",
+    "noc": "NAM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/HUez63n7xzBx0v__6EfsTA_48x48.png",
+    "name": "Bahrain",
+    "noc": "BRN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/mXL5An-h0k6jl-NwN_TW4w_48x48.png",
+    "name": "Burundi",
+    "noc": "BDI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/39h2zY5CckedxQa6QZpspA_48x48.png",
+    "name": "Trinidad and Tobago",
+    "noc": "TTO"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/haAD1SXbO8U5DrW0FjJCPw_48x48.png",
+    "name": "Latvia",
+    "noc": "LAT"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/SGxeD7yhwPj53FmPBmMMHg_48x48.png",
+    "name": "Bolivia",
+    "noc": "BOL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/2vpR8clrEZdpNjaiHKpg7A_48x48.png",
+    "name": "Nigeria",
+    "noc": "NGR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/-zzT3_3TWS1ZrjuUr-qs5A_48x48.png",
+    "name": "Algeria",
+    "noc": "ALG"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/LYVR1PxFRQhJfqFXBFogGg_48x48.png",
+    "name": "Fiji",
+    "noc": "FIJ"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/xhoEL7tXXy5y39VUVSXMvQ_48x48.png",
+    "name": "Mauritius",
+    "noc": "MRI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/QSlAlD9v6Fm_drC_2z1u8A_48x48.png",
+    "name": "Iceland",
+    "noc": "ISL"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/hiSp69XmyXk7fVECJ6fzOg_48x48.png",
+    "name": "Zambia",
+    "noc": "ZAM"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/WzV0s6me4JPkCNeSsTyptQ_48x48.png",
+    "name": "Côte d'Ivoire",
+    "noc": "CIV"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/RaJAD2JJUKN3g6DwuBy5sA_48x48.png",
+    "name": "Gabon",
+    "noc": "GAB"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/ScPdTf2Mj7oMfA7IMgxorg_48x48.png",
+    "name": "Antigua and Barbuda",
+    "noc": "ANT"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/r-Ec2eED0ce4OO-s8_uI6w_48x48.png",
+    "name": "Albania",
+    "noc": "ALB"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/_wZcguha0qBtTA2QMXWkHw_48x48.png",
+    "name": "Djibouti",
+    "noc": "DJI"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_48x48.png",
+    "name": "Saudi Arabia",
+    "noc": "KSA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/JIn8OwxL6KFFiYrKGnL2RQ_48x48.png",
+    "name": "Panama",
+    "noc": "PAN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/7CIiJDwu9Q8WSMJg_GVtGg_48x48.png",
+    "name": "Luxembourg",
+    "noc": "LUX"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8dpQB44vN2C6MpD2ADhUcg_48x48.png",
+    "name": "Tajikistan",
+    "noc": "TJK"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/em3xOvyKQEgz1IIYI8GO9w_48x48.png",
+    "name": "Bosnia and Herzegovina",
+    "noc": "BIH"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/t-2eQqlZMRdHtDb-bPGhmQ_48x48.png",
+    "name": "Saint Lucia",
+    "noc": "LCA"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/c61nYbfTXFNn0ozhQgn5yg_48x48.png",
+    "name": "Grenada",
+    "noc": "GRN"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/TCCjfBAiHiMVABsTYC_VRA_48x48.png",
+    "name": "Barbados",
+    "noc": "BAR"
+  },
+  {
+    "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/g-8Bhxe0l2KlSE6aP02_eg_48x48.png",
+    "name": "Bermuda",
+    "noc": "BER"
+  }
+]
