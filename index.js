@@ -7,7 +7,7 @@ const async = require('async');
 const sqlite3 = require('sqlite3');
 
 const db = new sqlite3.Database('./ref.db');
-const updateInterval = 5 * 60 * 1000; // 5 minutes
+const updateInterval = 1 * 60 * 1000; // 5 minutes
 const countries = require('./countries');
 const api_url = 'http://wowappprd.rio2016.com';
 const feed_url = `${api_url}/json/medals/OG2016_medalsList.json`;
@@ -93,6 +93,7 @@ app.get('/medals/:NOC', (req, res, next) => {
                 let query = `SELECT DISTINCT
                     TEAM.TEAM_CODE as id,
                     TEAM.TEAM_NAME as name,
+                    TEAM.NOC_CODE as noc,
                     TEAM.GENDER_CODE as gender,
                     DISCIPLINE.DISCIPLINE_CODE as discipline_code,
                     DISCIPLINE.ENG_DISCIPLINE_DESC as discipline
@@ -116,15 +117,11 @@ app.get('/medals/:NOC', (req, res, next) => {
             }
         }, (err, results) => {
             if (err) return next(err);
-            console.log(results.atheletes.length);
-            console.log(results.atheletes);
             // Normalize the results
             result.forEach(entry => {
                 entry.event = _.clone(_.find(results.documents, {id: entry.document_code})) || {name: 'unknown'};
-                delete entry.event.id;
 
                 if (entry.competitor_type == 'A') {
-                    console.log(entry.competitor_code);
                     entry.athelete = _.clone(_.find(results.atheletes, {id: entry.competitor_code})) || {name: 'unknown'};
                     delete entry.athelete.id;
                 } else if (entry.competitor_type == 'T') {
