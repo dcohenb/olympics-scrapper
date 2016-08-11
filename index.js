@@ -65,10 +65,15 @@ updateTiming();
 app.get('/', (req, res) => res.send('Hi there!'));
 app.get('/countries', (req, res) => res.json(countries));
 app.get('/medals', (req, res) => res.json(cachedResponse));
+
+let eventsCache = {};
 app.get('/medals/:NOC', (req, res, next) => {
     let NOC = (req.params.NOC || '').toUpperCase();
     if (!_.find(countries, {noc: req.params.NOC})) return next('Invalid NOC code');
 
+    if (eventsCache[NOC] && Date.now() < eventsCache[NOC].expires) return res.json(eventsCache[NOC].result);
+
+    console.log('Medals for', NOC);
     axios.get(medals_for_country + NOC).then(response => {
         let result = _.result(response, 'data.body.countriesMedals');
         if (!result) return next('Empty response from rio2016 API');
@@ -137,6 +142,11 @@ app.get('/medals/:NOC', (req, res, next) => {
                 delete entry.document_code;
                 delete entry.competitor_code;
             });
+
+            eventsCache[NOC] = {
+                expires: Date.now() + (3 * 60 * 1000), // cache for 3 minutes
+                result: result
+            };
 
             res.json(result);
         });
